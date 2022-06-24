@@ -2571,6 +2571,15 @@ table {
   color: #237EE9;
 }
 
+.change_submit {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.change_submit_text {
+  margin-bottom: 20px;
+}
+
 .change_submit_button {
   display: inline-block;
   width: 368px;
